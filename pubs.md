@@ -13,5 +13,5 @@ permalink: /pubs/
 1. **Anjali Gupta**, Rahul Yadav, Ashish Nair, Abhijnan Chakraborty, Sayan Ranu, and Amitabha Bagchi, "FairFoody: Bringing in Fairness in Food Delivery", in **AAAI 2022**
 
 2. Poonam Dhiman, and **Anjali**, "Empirical Validation of Website Quality
-Using Statistical and Machine Learning Methods", in **[IEEE 5th International Conference on Confluence The Next Generation Information Technology, 2014.](http://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=33936)**.  
+Using Statistical and Machine Learning Methods", in **[IEEE 5th International Conference on Confluence The Next Generation Information Technology, 2014.](https://ieeexplore.ieee.org/document/6949363)**.  
 
