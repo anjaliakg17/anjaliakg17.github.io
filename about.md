@@ -14,46 +14,29 @@ permalink: /about/
 
 # <center>Short Bio</center>
 
-I am a Ph.D. student working under the supervision of Dr. [Sayan Ranu](http://www.cse.iitd.ac.in/~sayan/) in the Department of Computer Science and Engineering at [IIT Delhi](https://cse.iitd.ac.in).
-
+I am a Ph.D. student working under the supervision of Dr. [Sayan Ranu](http://www.cse.iitd.ac.in/~sayan/) and Dr. [Amitabha Bagchi](http://www.cse.iitd.ac.in/~bagchi/) in the Department of Computer Science and Engineering at [IIT Delhi](https://cse.iitd.ac.in).
 
 Research Interests:
 
-   **1. Learning Combinatorial algorithms on graphs**
+   **1. Fairness, Bias in Algorithms**
 
-   **2. Scalable learning on graphs**
+   **2. Data Mining,Machine Learning, Graph Neural Network**
 
-   **3. Few shot learning/ Meta-Learning**
+   **3. AI for social good**
  
  <br>
  
 Please visit my [Google Scholar profile](https://scholar.google.com/citations?user=OPyjQHwAAAAJ&hl=en) for more details. 
 
 
-Prior to joining IIT Delhi, I worked as a Research Engineer in the Machine learning and statistics group at Conduent Labs( Formerly Xerox Research Center India). I received my Master's degree in Computer Science and Engineering from the [Indian Institute of Technology Guwahati](http://iitg.ernet.in/cse).
+Prior to joining IIT Delhi, I worked as a Data Scientist at Affle/RevX, Bangalore for around 3.5 years. I received my Master's degree in Computer Science and Engineering from the [Delhi Technological University (Formerly Delhi College of Engineering), Delhi](http://dtu.ac.in/).
 
 Please find my [**CV**](https://github.com/sahilm1992/sahilm1992.github.io/blob/master/CV_Sahil%20Manchanda.pdf).
 
 # <center>News</center>
-**Jan 2022:**
-* Serving as PC member in **Applied Data Science Track in KDD 2022**
-
-
 
 **Nov 2021:**
-* Paper accepted in **AAAI 2022**
-"TIGGER: Scalable Generative Modelling for Temporal Interaction Graphs".  Shubham Gupta, **Sahil Manchanda**, Srikanta Bedathur and Sayan Ranu
+* Paper accepted in **AAAI 2022** (AR=4\%, Oral Presentation)
+"FairFoody: Bringing in Fairness in Food Delivery".  **Anjali Gupta**, Rahul Yadav, Ashish Nair, Abhijnan Chakraborty, Sayan Ranu, and Amitabha Bagchi,
 
-**Sep 2021:**
-* Paper accepted in **NeurIPS 2021**
-"NeuroMLR: Robust & Reliable Route Recommendation on Road Networks".  Jayant Jain, Vrittika Bagadia, **Sahil Manchanda** and Sayan Ranu
-
-**Sep 2020:**
-
-* Paper accepted in **NeurIPS 2020**
-"[GCOMB: Learning Budget-constrained Combinatorial Algorithms over Billion-sized Graphs](https://arxiv.org/abs/1903.03332)" .  **Sahil Manchanda**, Akash Mittal, Anuj Dhawan, Sourav Medya, Sayan Ranu, and Ambuj Singh 
-
-
-* Joined as a Research Intern in the **Machine learning and optimization Team** at **[NAVER Labs, Europe.](https://europe.naverlabs.com/research/machine-learning-and-optimization/)** 
-
-    **Research topic**: Deep Reinforcement learning for Combinatorial Optimization.
+    **Research topic**: Algorithmic Fairness in Allocation Problems.
