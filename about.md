@@ -29,7 +29,7 @@ Research Interests:
 Please visit my [Google Scholar profile](https://scholar.google.com/citations?user=mnoyw8MAAAAJ&hl=en) for more details. 
 
 
-Prior to joining IIT Delhi, I worked as a Data Scientist at Affle/RevX, Bangalore for around 3.5 years. I received my Master's degree in Computer Science and Engineering from the [Delhi Technological University (Formerly Delhi College of Engineering), Delhi](http://dtu.ac.in/).
+Prior to joining IIT Delhi, I worked as a Data Scientist at Affle/RevX Bangalore for around 3.5 years, at Arvind Ltd and Nagarro Software for a year and a half. I received my Master's degree in Computer Science and Engineering from the [Delhi Technological University (Formerly Delhi College of Engineering), Delhi](http://dtu.ac.in/).
 
 Please find my [**CV**](https://github.com/anjaliakg17/anjaliakg17.github.io/blob/master/Anjali_Resume.pdf).
 
