@@ -18,9 +18,9 @@ I am a Ph.D. student working under the supervision of Dr. [Sayan Ranu](http://ww
 
 Research Interests:
 
-   **1. Fairness, Bias in Algorithms**
+   **1. Fairness and Bias in Algorithms**
 
-   **2. Data Mining,Machine Learning, Graph Neural Network**
+   **2. Data Mining, Machine Learning, Graph Neural Network**
 
    **3. AI for social good**
  
