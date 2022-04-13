@@ -5,27 +5,13 @@ permalink: /pubs/
 ---
 
 <p align="center">
-<a href = "https://scholar.google.com/citations?user=OPyjQHwAAAAJ&hl=en">Google Scholar</a>
+<a href = "https://scholar.google.com/citations?user=mnoyw8MAAAAJ&hl=en">Google Scholar</a>
 </p>
 
 
 ### Publications
-1. Shubham Gupta, **Sahil Manchanda**, Srikanta Bedathur and Sayan Ranu, "TIGGER: Scalable Generative Modelling for Temporal Interaction Graphs", in **AAAI 2022**
+1. **Anjali Gupta**, Rahul Yadav, Ashish Nair, Abhijnan Chakraborty, Sayan Ranu, and Amitabha Bagchi, "FairFoody: Bringing in Fairness in Food Delivery", in **AAAI 2022**
 
-2. Jayant Jain, Vrittika Bagadia, **Sahil Manchanda** and Sayan Ranu, "NeuroMLR: Robust & Reliable Route Recommendation on Road Networks", in **[NeurIPS, 2021](https://nips.cc/Conferences/2021/)**.  
+2. Poonam Dhiman, and **Anjali**, "Empirical Validation of Website Quality
+Using Statistical and Machine Learning Methods", in **[IEEE 5th International Conference on Confluence The Next Generation Information Technology, 2014.](http://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=33936)**.  
 
-3. **Sahil Manchanda**, Akash Mittal, Anuj Dhawan, Sourav Medya, Sayan Ranu, and Ambuj Singh "[GCOMB: Learning Budget-constrained Combinatorial Algorithms over Billion-sized Graphs](https://arxiv.org/abs/1903.03332)", in **[NeurIPS, 2020](https://nips.cc/Conferences/2020/)**.  
-
-4. **Sahil Manchanda** and Ashish Anand "[Representation Learning of Drug and Disease Terms for Drug Repositioning](https://ieeexplore.ieee.org/abstract/document/7985802)" - 3rd IEEE International Conference on Cybernetics, 2017.
-
-
-### Patent
-1. **Trained Pattern Analyzer for Rollout Decisions"** [USPTO](https://patents.google.com/patent/US20200320806A1/).
-Inventors: **Sahil Manchanda**, Arun Rajkumar, Simarjot Kaur and Narayanan Unny.
-
-    Status : Under review in US Patent office.
-
-
-### Manuscript
-
-1. **Sahil Manchanda**, Arun Rajkumar, Simarjot Kaur, Narayanan Unny "[SUPAID: A Rule mining based method for automatic rollout decision aid for supervisors in fleet management systems](https://arxiv.org/abs/2001.03386)".
