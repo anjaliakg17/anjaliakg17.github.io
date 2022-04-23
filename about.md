@@ -36,6 +36,8 @@ Please find my [**CV**](https://github.com/anjaliakg17/anjaliakg17.github.io/blo
 # <center>News</center>
 
 **Nov 2021:**
+* Paper accepted in **IJCAI 2022**
+* Gigs with Guarantees: Achieving Fair Wage for Food Delivery Workers”, Ashish Nair, Rahul Yadav, **Anjali Gupta**, Abhijnan Chakraborty, Sayan Ranu, and Amitabha Bagchi, IJCAI, 2022.
 * Paper accepted in **AAAI 2022** (AR=4\%, Oral Presentation)
 "FairFoody: Bringing in Fairness in Food Delivery".  **Anjali Gupta**, Rahul Yadav, Ashish Nair, Abhijnan Chakraborty, Sayan Ranu, and Amitabha Bagchi,
 
