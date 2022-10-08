@@ -24,7 +24,7 @@ Research Interests:
 
    **3. AI for social good**
    
-   **4. Computational social choice, **
+   **4. Computational social choice**
  
  <br>
  
