@@ -6,7 +6,7 @@ permalink: /about/
 
 <p align="center">
     More details: 
-    <a href="https://github.com/anjaliakg17/anjaliakg17.github.io/blob/master/Anjali_Resume_updated.pdf">
+    <a href="https://github.com/anjaliakg17/anjaliakg17.github.io/blob/master/Anjali_Resume_updated_Sep22.pdf">
         <img alt="PDF version CV" src="https://img.shields.io/badge/Curriculum Vitae-PDF-blue.svg">
     </a>
 </p>
@@ -14,7 +14,7 @@ permalink: /about/
 
 # <center>Short Bio</center>
 
-I am a Ph.D. student working under the supervision of Dr. [Sayan Ranu](http://www.cse.iitd.ac.in/~sayan/) and Dr. [Amitabha Bagchi](http://www.cse.iitd.ac.in/~bagchi/) in the Department of Computer Science and Engineering at [IIT Delhi](https://cse.iitd.ac.in).
+I am a Google Ph.D. fellow working under the supervision of Dr. [Sayan Ranu](http://www.cse.iitd.ac.in/~sayan/) and Dr. [Amitabha Bagchi](http://www.cse.iitd.ac.in/~bagchi/) in the Department of Computer Science and Engineering at [IIT Delhi](https://cse.iitd.ac.in).
 
 Research Interests:
 
@@ -23,6 +23,8 @@ Research Interests:
    **2. Data Mining, Machine Learning, Graph Neural Network**
 
    **3. AI for social good**
+   
+   **4. Computational social choice, **
  
  <br>
  
@@ -35,9 +37,12 @@ Please find my [**CV**](https://github.com/anjaliakg17/anjaliakg17.github.io/blo
 
 # <center>News</center>
 
-**Nov 2021:**
+**Sep 2022:**
+Received **Google PhD Fellowship** 2022.
+**Apr 2022:**
 * Paper accepted in **IJCAI 2022**
 "Gigs with Guarantees: Achieving Fair Wage for Food Delivery Workers”, Ashish Nair, Rahul Yadav, **Anjali Gupta**, Abhijnan Chakraborty, Sayan Ranu, and Amitabha Bagchi, IJCAI, 2022.
+**Nov 2021:**
 * Paper accepted in **AAAI 2022** (AR=4\%, Oral Presentation)
 "FairFoody: Bringing in Fairness in Food Delivery".  **Anjali Gupta**, Rahul Yadav, Ashish Nair, Abhijnan Chakraborty, Sayan Ranu, and Amitabha Bagchi,
 
