@@ -37,13 +37,13 @@ Please find my [**CV**](https://github.com/anjaliakg17/anjaliakg17.github.io/blo
 
 # <center>News</center>
 
-**Sep 2022:**
-Received **Google PhD Fellowship** 2022.
-**Apr 2022:**
-Paper accepted in **IJCAI 2022**
+Sep 2022:
+*Received **Google PhD Fellowship** 2022.*
+Apr 2022:
+*Paper accepted in **IJCAI 2022**
 *"Gigs with Guarantees: Achieving Fair Wage for Food Delivery Workers”, Ashish Nair, Rahul Yadav, **Anjali Gupta**, Abhijnan Chakraborty, Sayan Ranu, and Amitabha Bagchi, IJCAI, 2022.
-**Nov 2021:**
+Nov 2021:
 *Paper accepted in **AAAI 2022** (AR=4\%, Oral Presentation)
-"FairFoody: Bringing in Fairness in Food Delivery".  **Anjali Gupta**, Rahul Yadav, Ashish Nair, Abhijnan Chakraborty, Sayan Ranu, and Amitabha Bagchi,
+*"FairFoody: Bringing in Fairness in Food Delivery".  **Anjali Gupta**, Rahul Yadav, Ashish Nair, Abhijnan Chakraborty, Sayan Ranu, and Amitabha Bagchi,
 
     **Research topic**: Algorithmic Fairness in Allocation Problems.
