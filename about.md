@@ -6,7 +6,7 @@ permalink: /about/
 
 <p align="center">
     More details: 
-    <a href="https://github.com/anjaliakg17/anjaliakg17.github.io/blob/master/Anjali_Resume_updated_Sep22.pdf">
+    <a href="https://github.com/anjaliakg17/anjaliakg17.github.io/blob/master/Anjali_Resume_updated_sep22.pdf">
         <img alt="PDF version CV" src="https://img.shields.io/badge/Curriculum Vitae-PDF-blue.svg">
     </a>
 </p>
