@@ -25,8 +25,8 @@ A selection of my <b>experiences</b>.
 
 ## <center>Teaching Assistant </center>
 
+- Data Mining (UG+PG), IIT Delhi- 2021, 2022
 - Database Management Systems (UG+PG), IIT Delhi- 2020, 2022
-- Data Mining (UG+PG), IIT Delhi- 2021
 - Introduction to Computer Science (UG) , IIT Delhi- 2020, 2021
 - Programming and Data Structure Lab (UG), DTU Delhi- 2012-2014
 
