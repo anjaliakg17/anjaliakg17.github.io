@@ -37,7 +37,8 @@ Please find my [**CV**](https://github.com/anjaliakg17/anjaliakg17.github.io/blo
 
 # <center>News</center>
 **May 2024:**
-*Received **Women in AI award** in category **”AI in Innovation and Research”** presented by WiDS Delhi @ Mastercard conference on **”AI Revolution” 2024**
+*Received **Women in AI award** in category ”AI in Innovation and Research” presented by WiDS Delhi @ Mastercard conference on ”AI Revolution” 2024.
+
 **Jan 2023:**
 *Paper accepted in **WWW 2023**
 *"Towards Fair Allocation in Social Commerce Platforms”, **Anjali Gupta**, Shreyans Nagori, Abhijnan Chakraborty, Rohit Vaish, Sayan Ranu, Prajit Nadkarni, Narendra Dasararaju and Muthusamy Chelliah, WWW 2023. (AR=19.1%).
