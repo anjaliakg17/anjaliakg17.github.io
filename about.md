@@ -33,9 +33,11 @@ Please visit my [Google Scholar profile](https://scholar.google.com/citations?us
 
 Prior to joining IIT Delhi, I worked as a Data Scientist at Affle/RevX Bangalore for around 3.5 years, at Arvind Ltd and Nagarro Software for a year and a half. I received my Master's degree in Computer Science and Engineering from the [Delhi Technological University (Formerly Delhi College of Engineering), Delhi](http://dtu.ac.in/).
 
-Please find my [**CV**](https://github.com/anjaliakg17/anjaliakg17.github.io/blob/master/Anjali_Resume_updated_sep22.pdf).
+Please find my [**CV**](https://github.com/anjaliakg17/anjaliakg17.github.io/blob/master/Anjali_Gupta_Resume_updated_sep2024.pdf).
 
 # <center>News</center>
+**May 2024:**
+*Received **Women in AI award** in category **”AI in Innovation and Research”** presented by WiDS Delhi @ Mastercard conference on **”AI Revolution” 2024**
 **Jan 2023:**
 *Paper accepted in **WWW 2023**
 *"Towards Fair Allocation in Social Commerce Platforms”, **Anjali Gupta**, Shreyans Nagori, Abhijnan Chakraborty, Rohit Vaish, Sayan Ranu, Prajit Nadkarni, Narendra Dasararaju and Muthusamy Chelliah, WWW 2023. (AR=19.1%).
