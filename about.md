@@ -34,6 +34,7 @@ Please visit my [Google Scholar profile](https://scholar.google.com/citations?us
 Prior to joining IIT Delhi, I worked as a Data Scientist at Affle/RevX Bangalore for around 3.5 years, at Arvind Ltd and Nagarro Software for a year and a half. I received my Master's degree in Computer Science and Engineering from the [Delhi Technological University (Formerly Delhi College of Engineering), Delhi](http://dtu.ac.in/).
 
 Please find my [**CV**](https://github.com/anjaliakg17/anjaliakg17.github.io/blob/master/Anjali_Gupta_Resume.pdf).
+[**CV**](https://github.com/anjaliakg17/anjaliakg17.github.io/AnjaliResume_PhD_IITD.pdf).
 
 # <center>News</center>
 **May 2024:**
