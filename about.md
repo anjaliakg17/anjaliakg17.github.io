@@ -18,9 +18,9 @@ I am a Google Ph.D. fellow working under the supervision of Dr. [Sayan Ranu](htt
 
 Research Interests:
 
-   **1. Fairness and Bias in Algorithms**
-
-   **2. Machine Learning, Graph Neural Networks,  Deep Learning, LLM, Data Mining**
+   **1. Machine Learning, Graph Neural Networks,  Deep Learning, LLM, Data Mining**
+   
+   **2. Fairness and Bias in Algorithms**
 
    **3. AI for social good**
    
@@ -44,7 +44,8 @@ Please find my [**CV**](https://github.com/anjaliakg17/anjaliakg17.github.io/blo
 *"Towards Fair Allocation in Social Commerce Platforms”, **Anjali Gupta**, Shreyans Nagori, Abhijnan Chakraborty, Rohit Vaish, Sayan Ranu, Prajit Nadkarni, Narendra Dasararaju and Muthusamy Chelliah, WWW 2023. (AR=19.1%).
 
 **Sep 2022:**
-*Received **Google PhD Fellowship** 2022.*
+*Received **Google PhD Fellowship** 2022. in  [Algorithms, Optimizations, and Markets field.](https://research.google/programs-and-events/phd-fellowship/recipients/?filtertab=2022)
+*
 
 **Apr 2022:**
 *Paper accepted in **IJCAI 2022**
