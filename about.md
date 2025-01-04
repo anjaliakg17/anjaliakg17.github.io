@@ -55,4 +55,4 @@ Please find my [**CV**](https://github.com/anjaliakg17/anjaliakg17.github.io/blo
 *Paper accepted in **AAAI 2022** (AR=4\%, Oral Presentation)
 *"FairFoody: Bringing in Fairness in Food Delivery".  **Anjali Gupta**, Rahul Yadav, Ashish Nair, Abhijnan Chakraborty, Sayan Ranu, and Amitabha Bagchi,
 
-    **Research topic**: Algorithmic Fairness in Allocation Problems.
+    
