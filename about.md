@@ -20,7 +20,7 @@ Research Interests:
 
    **1. Fairness and Bias in Algorithms**
 
-   **2. Data Mining, Machine Learning, Graph Neural Network**
+   **2. Machine Learning | Graph Neural Networks |  Deep Learning | LLM| Data Mining**
 
    **3. AI for social good**
    
