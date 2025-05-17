@@ -36,6 +36,11 @@ Prior to joining IIT Delhi, I worked as a Data Scientist at Affle/RevX Bangalore
 Please find my [**CV**](https://github.com/anjaliakg17/anjaliakg17.github.io/blob/master/AnjaliResume_PhD_IITD.pdf).
 
 # <center>News</center>
+**May 2025:**
+*Paper accepted in **KDD 2025**
+*"Persona Identification in E-Commerce with Scarce Labels and In-Context Graph Learning”, **Anjali Gupta**, Prashant Kumar, Aniket Mishra, Abhishek Singh, Surender kumar, Muthusamy Chelliah, Abhijnan Chakraborty, Sayan Ranu, KDD 2025. (AR=18.4%).
+
+
 **May 2024:**
 *Received **Women in AI award** in category ”AI in Innovation and Research” presented by WiDS Delhi @ Mastercard conference on ”AI Revolution” 2024.
 
